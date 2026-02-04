@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./screenshots/dashboard.png" width="100%" alt="ResumeRank AI Dashboard" />
+<img src="dashboard_colorful.png" width="100%" />
+
 
 
 # 🚀 **ResumeRank AI**
