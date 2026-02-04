@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="screenshots/dashboard_colorful.png" width="85%" />
+<img src="./screenshots/dashboard.png" width="100%" alt="ResumeRank AI Dashboard" />
+
 
 # 🚀 **ResumeRank AI**
 ### *Smart Resume Matching • ATS-style Screening • Explainable AI*
