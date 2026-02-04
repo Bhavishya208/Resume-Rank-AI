@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="dashboard_colorful.png" width="100%" />
+<img src="dashboard.png" width="100%" />
 
 
 
